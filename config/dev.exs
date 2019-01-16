@@ -40,8 +40,8 @@ config :phoenix, :stacktrace_depth, 20
 # Configure your database
 config :elixnthe, Elixnthe.Repo,
   adapter: Ecto.Adapters.Postgres,
-  username: "postgres",
-  password: "postgres",
+  username: "ok",
+  password: "maxx",
   database: "elixnthe_dev",
   hostname: "localhost",
   pool_size: 10
